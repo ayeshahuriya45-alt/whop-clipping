@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+clips/
+downloads/
+*.log
+dist/
+build/
+.DS_Store
+.vscode/
+.idea/
+*.mp4
+*.mkv
+*.mov
